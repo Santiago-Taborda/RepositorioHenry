@@ -15,8 +15,18 @@ footer {
     font-size: 0.5em;
 }
 
+a{
+    color: white;
+}
+
+a:hover{
+    color: rgb(255, 119, 0);
+    text-decoration: none;
+}
+
 .titulo {
     font-size: 1.3em;
+    text-decoration:underline;
     font-style: oblique;
 }
 
