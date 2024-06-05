@@ -1,0 +1,27 @@
+git init
+inicializar un repositorio local
+
+git status
+revisar el estado en el que se encuentra el repositorio
+
+git add ''
+agregar al commit solo el archivo nombrado
+
+git add .
+agregar al commit todos los archivos dentro de la carpeta
+
+git commit -m ''
+crear el commit y le agrega una descripcion
+
+git log
+mostrar los detalles del commit realizado
+
+git push
+subir los cambios deseados del commit a GitHub
+
+git pull
+recibir cambios de repositorio remoto a local
+
+
+git clone LINK
+descargar el repositorio con el enlace y lo añade a la carpeta
